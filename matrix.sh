@@ -10,4 +10,5 @@ function matrix () {
           printf "\033[%s;%sH\033[1;37m%s\033[0;0H",a[x],x,letter;if (a[x] >= $1) { a[x]=0; } }
       }'
   }
-reply
+
+# courtesy: https://news.ycombinator.com/item?id=24327512
